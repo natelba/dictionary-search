@@ -7,3 +7,25 @@
     display:block;
     text-align: center;
 }
+
+.Dictionary section {
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 5px 15px rgb(0 0 0 / 20%);
+    margin: 20px 0;
+}
+
+.Dictionary input {
+    width: 100%;
+    padding: 6px 10px;
+    border: 1px solid #ddd;
+    color: #333;
+    border-radius: 6px;
+}
+
+.Dictionary .hint {
+    color: #F7C338;
+    font-size: 11px;
+    margin-top: 5px;
+}

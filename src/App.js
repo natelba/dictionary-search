@@ -11,7 +11,7 @@ export default function App() {
         <h1>Dictionary Search Engine</h1>
       </header>
       <main>
-      <Dictionary />
+        <Dictionary defaultKeyword="Dictionary"/>
       </main>
       <footer className="App-footer">
         <small>Coded by Natalia Guardia and is <a href="https://github.com/natelba/dictionary-app">Open-Sourced</a></small>
