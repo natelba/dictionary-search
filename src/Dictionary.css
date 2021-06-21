@@ -29,3 +29,11 @@
     font-size: 11px;
     margin-top: 5px;
 }
+
+.Dictionary h1 {
+    font-size: 18px;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #424242;
+}

@@ -1,5 +1,5 @@
 .Phonetcs {
-    height: 60px;
+    margin: 20px 0;
 }
 
 .Phonetics a {
@@ -16,7 +16,7 @@
     color: white;
 }
 
-.Phonetics .text {
+.Phonetics .Text {
     opacity: 0.7;
     font-weight: bold;
 }
