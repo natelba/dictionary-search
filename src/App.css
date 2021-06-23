@@ -1,9 +1,20 @@
 body {
-  background: rgb(206, 235, 235);
+  background: rgb(230, 238, 238);
 }
 
 .App-header {
   margin: 30px 0;
+  
+}
+
+.App-header h1 {
+  position: relative;
+  top: -100px
+}
+
+.App-header img {
+  position: relative;
+  right: 300px;
 }
 
 .App-logo {
@@ -25,4 +36,9 @@ body {
 
 a {
   color: #DA4235;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
 }
